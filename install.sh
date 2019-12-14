@@ -16,27 +16,6 @@
 #  -mysql-server    安装Mysql服务端
 #  -mysql-client    安装Mysql客户端
 #
-# Packages: 
-#  -google-perftools-1.6.tar.gz
-#  -libevent-2.0.22-stable.tar.gz
-#  -libiconv-1.13.1.tar.gz
-#  -libmcrypt-2.5.8.tar.gz
-#  -libmemcached-1.0.9.tar.gz
-#  -libunwind-0.99.tar.gz
-#  -m9php-php7.tar.gz
-#  -mcrypt-2.6.8.tar.gz
-#  -memcache-3.0.8.tgz
-#  -memcached-1.4.34.tar.gz
-#  -mhash-0.9.9.9.tar.gz
-#  -nginx-1.11.6.tar.gz
-#  -pcre-8.38.tar.gz
-#  -pecl-memcache-php7.tar.gz
-#  -php-5.5.38.tar.gz
-#  -php-5.6.29.tar.gz
-#  -php-7.0.14.tar.gz
-#  -php-memcached-master.tar.gz
-#  -phpredis-develop.tar.gz
-#  -protobuf-master.tar.gz
 #########################################################################
 #!/bin/bash
 NGINX_DIR="/usr/local/nginx"

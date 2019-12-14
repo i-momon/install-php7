@@ -10,3 +10,6 @@ Usage: sh php_install.sh [options]
 -mysql-client    安装Mysql客户端
 
 ```
+
+## 待改进
+* 支持php、php_ext 安装debug版本
